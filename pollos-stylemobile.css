@@ -10,6 +10,8 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     color: aliceblue;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Poiret One', cursive;
 }
 /* header */
 .header-flex {
@@ -19,8 +21,6 @@ html {
     gap: 1rem;
     margin-top: 1.5rem;
     text-align: center;
-    font-family: 'Fredoka One', cursive;
-    font-family: 'Poiret One', cursive;
     font-size: 2rem;
 }
 .logo-nav-size{
@@ -49,6 +49,7 @@ a{
 }
 P {
     font-family: 'Fredoka One', cursive;
+    font-family: 'Poiret One', cursive;
     margin-bottom: 3.8rem;
 }
 /* footer */
