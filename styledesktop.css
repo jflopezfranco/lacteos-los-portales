@@ -1,5 +1,5 @@
 /* main */
 html {
-    background-image: url("../assets/img-url/backgrounddesktop.jpg");
+    background-image: url("./backgrounddesktop.jpg");
     color: white;
 }
