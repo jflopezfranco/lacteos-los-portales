@@ -1,0 +1,21 @@
+/* main */
+.sec-food{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 9rem;
+}
+.f1, 
+.f2,
+.f3 {
+  width: 25%;
+}
+.f4, 
+.f5,
+.f6 {
+    width: 25%;
+}
+/* footer */
+.ftr-about {
+    margin-top: 11rem;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    font-size: 62.5%;
+    background-image: url(../assets/img-url/backgroundcow-425x854_auto_x2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+/* header */
+.header-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Poiret One', cursive;
+    font-size: 2rem;
+}
+.logo-nav-size{
+    width: 10rem;
+    height: 10rem;
+}
+/* main */
+.sec-food{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6rem;
+    gap: 2.5rem;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+.main-food-img{
+    height: 14rem;
+    width: 15rem;
+    border-radius: 1.5rem;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+P {
+    font-family: 'Fredoka One', cursive;
+}
+/* footer */
+.fter-logo{
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: .5rem;
+}
+.ftr-about{
+    display: flex;
+    color: aliceblue;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: fit-content;
+    font-size: 1.2rem;
+}
